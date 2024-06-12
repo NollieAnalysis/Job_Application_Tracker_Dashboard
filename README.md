@@ -39,3 +39,15 @@ Below are column names (and select explanations) in CSV file:
 'OFFERED_PAY'
 
 'NOTES'
+
+# Project deliverables
+
+Dashboard with examples
+
+![Screenshot 2024-06-12 122127](https://github.com/NollieAnalysis/Job_Application_Tracker_Dashboard/assets/163913188/4853d233-7a45-454e-9494-05e9981e3dff)
+
+CSV template to log job applications with examples
+
+![Screenshot 2024-06-12 122801](https://github.com/NollieAnalysis/Job_Application_Tracker_Dashboard/assets/163913188/4d27786b-53a0-47fe-8bea-0c78a1b7cf24)
+
+# CSV and BI template attached to this repository
